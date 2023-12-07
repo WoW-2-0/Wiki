@@ -1,30 +1,30 @@
 # Table of contents
 
-## Language Core
+## CS Language Core
 
 * [Page 1](README.md)
 
-## Language Features
+## CS Language Features
 
-* [Language Features](language-features/language-features.md)
+* [Language Features](cs-language-features/language-features.md)
 
-## Platform Internals
+## .NET Platform Internals
 
-* [Platform Internals](platform-internals/platform-internals.md)
+* [Platform Internals](.net-platform-internals/platform-internals.md)
 
-## LLA
+## .NET LLA
 
-* [ILA](lla/ila.md)
+* [ILA](.net-lla/ila.md)
 
-## ILA
+## .NET ILA
 
-* [Optimization](ila/optimization/README.md)
-  * [Caching](ila/optimization/caching/README.md)
-    * [Memory Caching](ila/optimization/caching/memory-caching.md)
-    * [Distributed Caching](ila/optimization/caching/distributed-caching.md)
-    * [App Level Caching](ila/optimization/caching/app-level-caching.md)
-    * [Infrastructure](ila/optimization/caching/infrastructure.md)
+* [Optimization](.net-ila/optimization/README.md)
+  * [Caching](.net-ila/optimization/caching/README.md)
+    * [Memory Caching](.net-ila/optimization/caching/memory-caching.md)
+    * [Distributed Caching](.net-ila/optimization/caching/distributed-caching.md)
+    * [App Level Caching](.net-ila/optimization/caching/app-level-caching.md)
+    * [Infrastructure](.net-ila/optimization/caching/infrastructure.md)
 
-## Group 5
+## .NET HLA
 
-* [HLA](group-5/hla.md)
+* [HLA](.net-hla/hla.md)
