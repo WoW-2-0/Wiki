@@ -18,7 +18,12 @@
 
 ## ILA
 
-* [Optimization](ila/optimization.md)
+* [Optimization](ila/optimization/README.md)
+  * [Caching](ila/optimization/caching/README.md)
+    * [Memory Caching](ila/optimization/caching/memory-caching.md)
+    * [Distributed Caching](ila/optimization/caching/distributed-caching.md)
+    * [App Level Caching](ila/optimization/caching/app-level-caching.md)
+    * [Infrastructure](ila/optimization/caching/infrastructure.md)
 
 ## Group 5
 
